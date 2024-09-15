@@ -1,8 +1,5 @@
 # MindFlow: VR-Based Learning Tool for ASD and ID
-
-<img src="https://github.com/user-attachments/assets/fd011d77-f208-4a85-9749-2a7af3ed731d" alt="SIH2024_IDEA_Presentation_Format pptx" width="300" />
-
-
+![pikaso_texttoimage_modern-style-detailled-illustration-I-want-to-make-removebg-preview](https://github.com/user-attachments/assets/e72d7717-6ba3-474c-a289-c0a14d04dd6d)
 ## 🌟 Smart India Hackathon 2024 Entry
 
 - **Problem Statement ID:** SIH1712
@@ -39,6 +36,9 @@ MindFlow addresses these challenges through:
 3. Quietplace feature to create calm environments using mixed reality
 4. Certification system to enhance employability
 
+   <img width="2218" alt="Flow Chart Template (Copy) (21)" src="https://github.com/user-attachments/assets/80636963-201b-43c8-8fe4-e62c7eded800">
+
+
 ## Key Features
 
 - 🎮 Gamified Applied Behavior Analysis for social skills development
@@ -46,6 +46,10 @@ MindFlow addresses these challenges through:
 - 🧘 Quietplace feature for sensory-friendly focus sessions
 - 🤖 AI monitoring for personalized learning
 - 🏆 Social skill certifications for improved employability
+- 
+<img width="1840" alt="Flow Chart Template (Copy) (20)" src="https://github.com/user-attachments/assets/4827b3ba-5f1c-4545-9938-5b2742db633f">
+
+
 
 ## Technical Approach
 
