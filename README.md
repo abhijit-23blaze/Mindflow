@@ -95,8 +95,6 @@ Our project is based on extensive research in the following areas:
 - Cognitive Behavior Therapy for Autism
 - Behavioral Management Therapy for Autism
 
-For a full list of references, please see our [RESEARCH.md](RESEARCH.md) file.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
