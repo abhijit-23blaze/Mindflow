@@ -21,6 +21,15 @@
 
 MindFlow is an innovative Virtual Reality (VR) based application designed to help individuals with Autism Spectrum Disorder (ASD) and Intellectual Disabilities (ID) improve their social skills, learn essential life skills, and enhance their employability.
 
+<img width="896" alt="Flow Chart Template (Copy) (18)" src="https://github.com/user-attachments/assets/41fe9f2a-acfa-404e-ba39-e65ce20f1a65">
+
+
+![Group 30](https://github.com/user-attachments/assets/6b5c5245-1aec-467d-92c4-b071fc7c97a7)
+
+
+
+![Group 29 (1)](https://github.com/user-attachments/assets/118ab2ee-8e66-4f76-8e64-c1a23dfe3443)
+
 ### The Problem
 
 - 1 in 36 children are diagnosed with ASD (CDC report)
